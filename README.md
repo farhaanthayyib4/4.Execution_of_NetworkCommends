@@ -69,18 +69,23 @@ while True:
 s.close()
 ```
 ## Output
-CLIENT
+client
 <img width="830" height="266" alt="image" src="https://github.com/user-attachments/assets/401ef3eb-1720-4564-b80c-5926b32b0748" />
+
 server
 <img width="850" height="205" alt="image" src="https://github.com/user-attachments/assets/62e87391-554c-428a-837b-2a506ec98710" />
+
 netstat
 <img width="514" height="573" alt="image" src="https://github.com/user-attachments/assets/4a50431a-4c7e-4ceb-9e96-44d28774a892" />
+
 ipconfig
 <img width="517" height="394" alt="image" src="https://github.com/user-attachments/assets/a3b84054-bedb-4802-9234-367ed34443f0" />
 <img width="433" height="324" alt="image" src="https://github.com/user-attachments/assets/fa470607-d463-42a4-a5df-91ff8dea4acc" />
+
 nslookup
 traceroute
 <img width="816" height="348" alt="image" src="https://github.com/user-attachments/assets/c06821f6-632e-4b63-8cd6-ed6b628a2847" />
+
 tcpdump
 <img width="833" height="515" alt="image" src="https://github.com/user-attachments/assets/145fbe42-26a4-4d69-9238-9a30379e2fde" />
 
